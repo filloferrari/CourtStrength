@@ -1,0 +1,204 @@
+{
+  "workouts": [
+    {
+      "id": "w1",
+      "title": "Giorno 1: Forza Massimale",
+      "subtitle": "Early Week Strength (80% 1RM)",
+      "description": "Sessione di forza pesante a inizio settimana. Rispetta i tempi di recupero e l'esecuzione eccentrica dove indicata.",
+      "duration_minutes": 65,
+      "exercises_count": 8,
+      "exercises": [
+        {
+          "id": "e1_a1",
+          "category": "Gambe - Forza (A1)",
+          "name": "2DB Back Lunges",
+          "description": "Affondi all'indietro con 2 manubri",
+          "sets": 4,
+          "reps": 8,
+          "weight_kg": 50,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e1_a2",
+          "category": "Potenza (A2)",
+          "name": "Band Assisted Split Squat Jumps",
+          "description": "Salti esplosivi con assistenza elastico",
+          "sets": 3,
+          "reps": 5,
+          "weight_kg": 0,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e1_a3",
+          "category": "Ischiocrurali (A3)",
+          "name": "Single Leg Slider Hamstring Curl",
+          "description": "3 secondi di fase eccentrica (discesa lenta)",
+          "sets": 3,
+          "reps": 6,
+          "weight_kg": 0,
+          "rest_seconds": 120
+        },
+        {
+          "id": "e1_b1",
+          "category": "Upper Body - Spinta (B1)",
+          "name": "Dips Zavorrate",
+          "description": "Sostituisce DB Incline Bench Press",
+          "sets": 4,
+          "reps": 8,
+          "weight_kg": 10,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e1_b2",
+          "category": "Upper Body - Tirata (B2)",
+          "name": "Trazioni Zavorrate",
+          "description": "Sostituisce Cable Row",
+          "sets": 3,
+          "reps": 10,
+          "weight_kg": 10,
+          "rest_seconds": 120
+        },
+        {
+          "id": "e1_c1",
+          "category": "Core (C1)",
+          "name": "Hanging Knee Raises",
+          "description": "Ginocchia al petto in sospensione",
+          "sets": 2,
+          "reps": 8,
+          "weight_kg": 0,
+          "rest_seconds": 60
+        },
+        {
+          "id": "e1_c2",
+          "category": "Core / Adduttori (C2)",
+          "name": "Copenhagen Plank",
+          "description": "Mantenere la posizione isometrica e scendere controllati",
+          "sets": 2,
+          "reps": 10,
+          "weight_kg": 0,
+          "rest_seconds": 60
+        },
+        {
+          "id": "e1_c3",
+          "category": "Core (C3)",
+          "name": "Plate Sit Ups (Full)",
+          "description": "Sit up completi con disco al petto",
+          "sets": 2,
+          "reps": 15,
+          "weight_kg": 10,
+          "rest_seconds": 60
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "title": "Giorno 2: Potenza & Velocita",
+      "subtitle": "Game -1 or -2",
+      "description": "Focus sulla fase concentrica esplosiva. Warm-up: Wall press deadbugs, Good mornings, KB halo.",
+      "duration_minutes": 50,
+      "exercises_count": 4,
+      "exercises": [
+        {
+          "id": "e2_a1",
+          "category": "Forza Esplosiva (A1)",
+          "name": "Deep Squat",
+          "description": "Sostituisce la Trap Bar. Discesa rapida e risalita esplosiva.",
+          "sets": 3,
+          "reps": 5,
+          "weight_kg": 70,
+          "rest_seconds": 120
+        },
+        {
+          "id": "e2_a2",
+          "category": "Potenza Multi-direzionale (A2)",
+          "name": "DB Lateral Punch Jumps",
+          "description": "Salti laterali con punch. Esplosività laterale.",
+          "sets": 3,
+          "reps": 5,
+          "weight_kg": 5,
+          "rest_seconds": 120
+        },
+        {
+          "id": "e2_b1",
+          "category": "Upper - Potenza (B1)",
+          "name": "Single Arm Push Press",
+          "description": "Usa la spinta delle gambe per trasferire forza al braccio.",
+          "sets": 3,
+          "reps": 5,
+          "weight_kg": 20,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e2_b2",
+          "category": "Upper - Tirata (B2)",
+          "name": "Lat Pulldown",
+          "description": "Movimento controllato e contrazione di picco.",
+          "sets": 3,
+          "reps": 8,
+          "weight_kg": 55,
+          "rest_seconds": 120
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "title": "Giorno 3: Post-Partita",
+      "subtitle": "Agilità, Ipertrofia & Recupero",
+      "description": "Allenamento a basso impatto nervoso post-partita per favorire il recupero, la circolazione (agilità leggera) e il mantenimento muscolare.",
+      "duration_minutes": 45,
+      "exercises_count": 5,
+      "exercises": [
+        {
+          "id": "e3_1",
+          "category": "Agilità (Recupero Attivo)",
+          "name": "Agility Ladder Drills",
+          "description": "Ickey Shuffle e In-Out. Bassa intensità, focus su reattività dei piedi.",
+          "sets": 3,
+          "reps": 1,
+          "weight_kg": 0,
+          "rest_seconds": 45
+        },
+        {
+          "id": "e3_2",
+          "category": "Ipertrofia Gambe (A1)",
+          "name": "DB Goblet Squat",
+          "description": "Movimento fluido, massimo Range of Motion. Lavoro ipertrofico sui quadricipiti.",
+          "sets": 3,
+          "reps": 12,
+          "weight_kg": 24,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e3_3",
+          "category": "Ipertrofia Femorali (A2)",
+          "name": "DB Romanian Deadlift (RDL)",
+          "description": "Allungamento controllato della catena posteriore.",
+          "sets": 3,
+          "reps": 12,
+          "weight_kg": 40,
+          "rest_seconds": 90
+        },
+        {
+          "id": "e3_4",
+          "category": "Ipertrofia Upper Body (B1)",
+          "name": "Push-ups su maniglie",
+          "description": "Discesa profonda per stretch del pettorale. Lavoro muscolare senza carico assiale.",
+          "sets": 3,
+          "reps": 15,
+          "weight_kg": 0,
+          "rest_seconds": 60
+        },
+        {
+          "id": "e3_5",
+          "category": "Prevenzione Spalle (B2)",
+          "name": "Face Pulls con Elastico/Cavo",
+          "description": "Rotazione esterna e retrazione scapolare per salute delle spalle.",
+          "sets": 3,
+          "reps": 15,
+          "weight_kg": 15,
+          "rest_seconds": 60
+        }
+      ]
+    }
+  ]
+}
