@@ -1,0 +1,1 @@
+CourtStrength is an app that satisfied my needs of working out as an athlete without losing too much time setting timers or always checking the program to follow. Infact it merges these two aspect by taking the program as a .json file and translating it in buttons in the app, including a timer after each completed exercise.
