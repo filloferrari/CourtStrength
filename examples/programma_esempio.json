@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "workouts": [
+    {
+      "title": "Upper Body",
+      "subtitle": "Strength",
+      "description": "Allenamento parte superiore con due superset",
+      "duration_minutes": 60,
+      "exercises_count": 5,
+      "exercises": [
+        { "category": "A1", "name": "Panca piana", "description": "Esercizio per il petto",
+          "sets": 4, "reps": "8", "weight_kg": 60, "rest_seconds": 90 },
+        { "category": "A2", "name": "Rematore", "description": "Esercizio per la schiena",
+          "sets": 4, "reps": "10", "weight_kg": 40, "rest_seconds": 90 },
+        { "category": "B1", "name": "Military press", "description": "Spalle",
+          "sets": 3, "reps": "10", "weight_kg": 30, "rest_seconds": 75 },
+        { "category": "B2", "name": "Alzate laterali", "description": "Deltoidi laterali",
+          "sets": 3, "reps": "12-15", "weight_kg": 8, "rest_seconds": 75 },
+        { "category": "C", "name": "Plank", "description": "Core",
+          "sets": 3, "reps": "30 sec", "weight_kg": 0, "rest_seconds": 45 }
+      ]
+    }
+  ]
+}
